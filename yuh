@@ -1,0 +1,31 @@
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+
+<tr><td><h1>Minu kass Emmi on PARIM KASS UNIVERSUMIS!!!!!</h1></td></tr>
+  <tr><td><p>esimene põhjus-sest emmi on väga hea</p></td>
+  <td><p>teine põhjus- sest emmi on mega hea/p></td>
+<td><p>see ei ole minu kassist pilt sest ma ei oska panna oma kassist pildi</p>  </td></tr>
+  <td><img src="https://www.argospetinsurance.co.uk/assets/uploads/2017/12/cat-pet-animal-domestic-104827.jpeg" width="750px" height="100px/"></td>
+  <td><a href="https://en.wikipedia.org/wiki/Cat"> igav wikipedia link kassidest mis on igav..... ära vajuta</a></td>
+  <table style="border:1px solid green;border-collapse:collapse;">      <tr>
+    <td style="border:1px solid blue;">tühik</td>
+     <td style="border:1px solid blue;">Emmi</td>
+        <td style="border:1px solid blue;">sinu kass</td>
+           <td style="border:1px solid blue;">kõik kassid maailmas</td></tr>
+    <tr><td style="border:1px solid blue;">milline on parem</td> 
+      <td style="border:1px solid blue;">1</td> 
+        <td style="border:1px solid blue;">0</td> 
+          <td style="border:1px solid blue;">0</td></tr> <tr>
+    <td style="border:1px solid blue;">milline on emmi</td>
+      <td style="border:1px solid blue;">2</td>
+    <td style="border:1px solid blue;">0</td>
+      <td style="border:1px solid blue;">0</td></tr> </table>
+ <td> <img src="https://images.pexels.com/photos/326875/pexels-photo-326875.jpeg?cs=srgb&dl=adorable-animal-blur-326875.jpg&fm=jpg" width="750px" height="100px/"></td>
+</body>
+</html>
